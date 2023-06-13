@@ -25,3 +25,14 @@
     - Random Forest
   applications:
     - Quality control of smartphone pressure observations
+- name: Peter Thejll
+  email: pth@dmi.dk
+  social:
+    github: hotblack43
+    twitter: thejll
+  techniques:
+    - CNN for image regression (not classification)
+    - Random Forest
+    - NN
+  applications:
+    - Radiometry - determine Earth's albedo from earthshine intensity
